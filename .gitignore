@@ -8,3 +8,5 @@ ebin
 rel/example_project
 .concrete/DEV_MODE
 .rebar
+deb/debian/emqttd
+package/emqttd_2.3_amd64.deb
